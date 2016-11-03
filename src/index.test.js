@@ -16,12 +16,21 @@ describe('dikkenek-quotes', function(){
     it('it should contain `C’est excessivement énervant !`', function(){
       expect(dikkenek.all).to.include('C’est excessivement énervant !');
     });
+
   });
 
   describe('random', function(){
     it('should return a random item from dikkenk.all', function(){
       var randomItem = dikkenek.random();
       expect(dikkenek.all).to.include(randomItem);
+    });
+
+    it('should return an array of random items if passed a number', function(){
+      var randomItem = dikkenek.random(3);
+      expect(randomItem).to.have.length(3);
+      randomItem.forEach(function(item){
+        expect(dikkenek.all).to.include(item);
+      })
     });
   });
 });
