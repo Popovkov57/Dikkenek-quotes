@@ -9,7 +9,7 @@ describe('dikkenek-quotes', function(){
       function isArrayOfString(array){
         return array.every(function(item){
           return typeof item === 'string';
-        })
+        });
       }
     });
 
@@ -29,7 +29,7 @@ describe('dikkenek-quotes', function(){
       expect(randomItem).to.have.length(3);
       randomItem.forEach(function(item){
         expect(dikkenek.all).to.include(item);
-      })
+      });
     });
   });
 });
