@@ -13,19 +13,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/popovkov57/dikkenk-quotes.git"
+    "url": "https://github.com/kpatrzek/dikkenk-quotes.git"
   },
   "keywords": [
     "random",
     "dikkenek",
     "quotes"
   ],
-  "author": "Popovkov57 <kevin.patrzek@live.fr>",
+  "author": "kpatrzek <kevin.patrzek@live.fr>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/popovkov57/dikkenk-quotes/issues"
+    "url": "https://github.com/kpatrzek/dikkenk-quotes/issues"
   },
-  "homepage": "https://github.com/popovkov57/dikkenk-quotes#readme",
+  "homepage": "https://github.com/kpatrzek/dikkenk-quotes#readme",
   "dependencies": {
     "unique-random-array": "1.0.0"
   },
