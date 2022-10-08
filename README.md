@@ -51,10 +51,18 @@ dikkenek-quotes
 
 
 ## Build Information
+[![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
 
 [![Version](https://img.shields.io/npm/v/dikkenek-quotes.svg)]()
 
 [![Download](https://img.shields.io/npm/dm/dikkenek-quotes.svg)]()
+
+[![](https://camo.githubusercontent.com/8c289bc2e543bede952e249c23fb8e5a641878a4921bd5cf93a535ec78d4e4c6/68747470733a2f2f62616467656e2e6e65742f62616467652f69636f6e2f646973636f72643f69636f6e3d646973636f7264266c6162656c)](https://discord.com/invite/RSutahprpy)
+
+## Contributors
+<a href="https://github.com/Popovkov57/Dikkenek-quotes/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Popovkov57/Dikkenek-quotes" />
+</a>
 
 ## License
 [![MIT Licence](https://img.shields.io/npm/l/dikkenek-quotes.svg)]()
