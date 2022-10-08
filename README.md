@@ -51,13 +51,20 @@ dikkenek-quotes
 
 
 ## Build Information
-[![Travis build](https://img.shields.io/travis/popovkov57/dikkenk-quotes.svg)]()
-
-[![Codecov coverage](https://img.shields.io/codecov/c/github/popovkov57/dikkenk-quotes.svg)]()
+[![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
 
 [![Version](https://img.shields.io/npm/v/dikkenek-quotes.svg)]()
 
 [![Download](https://img.shields.io/npm/dm/dikkenek-quotes.svg)]()
+
+![](https://dcbadge.vercel.app/api/shield/406125028065804289?style=flat&compact=true), [discord](https://discord.com/invite/RSutahprpy)
+
+## Contributors
+<a href="https://github.com/Popovkov57/Dikkenek-quotes/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Popovkov57/Dikkenek-quotes" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
 
 ## License
 [![MIT Licence](https://img.shields.io/npm/l/dikkenek-quotes.svg)]()
