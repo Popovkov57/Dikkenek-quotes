@@ -41,7 +41,7 @@ dikkenek-quotes
      ✓ it should be an array of string
      ✓ it should contain `C’est excessivement énervant !`
    random
-     ✓ should return a random item from dikkenk.all
+     ✓ should return a random item from dikkenek.all
      ✓ should return an array of random items if passed a number
 
  4 passing (8ms)
