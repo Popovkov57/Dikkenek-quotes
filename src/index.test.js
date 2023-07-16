@@ -19,7 +19,7 @@ describe('dikkenek-quotes', function(){
   });
 
   describe('random', function(){
-    it('should return a random item from dikkenk.all', function(){
+    it('should return a random item from dikkenek.all', function(){
       var randomItem = dikkenek.random();
       expect(dikkenek.all).to.include(randomItem);
     });
